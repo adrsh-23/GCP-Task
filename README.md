@@ -9,7 +9,7 @@ So this is how i did it
 
 * First thing we need to do is to create a Kubernetes Cluster.
 
-
+![img1](https://github.com/adrsh-23/GCP-Task/blob/main/K-1.PNG)
 
 
 
